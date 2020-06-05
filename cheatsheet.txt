@@ -1,2 +1,3 @@
 git init
 Dieser Befehl erstellt ein Git Repository
+nun eine neue Zeite im Dokument
